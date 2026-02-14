@@ -1,0 +1,10 @@
+---
+description: Minimal code, no comments
+alwaysApply: true
+---
+
+# Code style
+
+- Do not write more code than necessary.
+- Do not write comments.
+- Do not give code explanations or explain changes unless asked.
