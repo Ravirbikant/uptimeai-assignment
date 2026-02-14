@@ -105,6 +105,7 @@
   width: 0.5rem;
   height: 0.5rem;
   transform: rotate(180deg);
+  margin-left: 0.25rem;
 }
 
 .top-tooltip {
