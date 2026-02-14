@@ -1,0 +1,11 @@
+.body-main {
+  min-height: 100vh;
+}
+
+.body-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  min-height: inherit;
+  background: red;
+}
